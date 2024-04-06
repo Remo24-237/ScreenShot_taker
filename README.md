@@ -9,3 +9,5 @@ Pillow
 two functions 
  full_screen_shots()
  partial_screen_shots()
+
+PS::: they might take screenshots continuously (hahahahahah......)
